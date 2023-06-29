@@ -1,4 +1,4 @@
-# Initial Language Popup
+# WP Initial Language Popup
 
 This plugin adds a simple popup to select the initial language of your website at the first visit.
 No matter which site you are heading to, the popup will appear and ask you to select your language.
